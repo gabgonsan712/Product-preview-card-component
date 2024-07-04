@@ -57,6 +57,7 @@ body main #gridContainer #rightContent .noteCardComponent {
   letter-spacing: 0.5em;
 }
 body main #gridContainer #rightContent .titleCardComponent {
+  margin: 0;
   font-family: "Fraunces";
   color: hsl(212, 21%, 14%);
   font-size: 30px;

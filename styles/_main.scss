@@ -54,6 +54,7 @@ body {
                 }
                 
                 .titleCardComponent{
+                    margin: 0;
                     @include title();
                 }
                 
