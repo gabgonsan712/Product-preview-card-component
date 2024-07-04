@@ -1,0 +1,16 @@
+
+@mixin standardText {
+    color: $pColor;
+    font-size: $standardTextSize;
+    font-weight: 500;
+    line-height: 1.5em;
+    font-family: Montserrat;
+}
+
+@mixin title {
+    font-family: "Fraunces";
+    color: $tColor;
+    font-size: $titleSize;
+    font-weight: 700;
+    font-optical-sizing: auto;
+}
